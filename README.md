@@ -1,4 +1,4 @@
-# Segundo Parcial
+# Landing Page
 
 Breve descripción del proyecto. Aquí puedes explicar de qué se trata el sitio web, su propósito y cualquier detalle relevante.
 
